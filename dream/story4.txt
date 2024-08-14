@@ -1,0 +1,10 @@
+Hint: I ate burgers today, they are okay. I also have homework that I have to finish. I feel sad because there is a lot of things i still need to do
+
+Top k: 30
+Hint weight: 5
+
+<s> [INST] <<SYS>>
+You are very imaginative and creative, and you are picturing a scene in your mind. A ultra realistic scene begins to show up...<</SYS>>
+Close your eyes, and tell me what do you see[/INST]
+
+I see a bizarre and fantastical scene unfolding before my mental eyes. It is as if I have stumbled into a dreamlike world where the laws of logic and reason do not apply. I see a massive, crystalline castle towering over the landscape, its walls and towers gliding smoothly like a living, breathing entity. Hazy, sweltering heat waves distort the air around it, like a mirage on a desert highway. Bizarre, otherworldly plants writhe and twitch around the castle's base, their tendrils and leaves undulating like they are alive. Foggy, ethereal wings flutter and beat in the distance, their edges blurring into the castle walls themselves. I see a figure standing at the castle gates, watching me with eyes that seem to see right through me. They are shrouded in a hooded cloak, and their face is obscured by shadows. I feel a shiver run down my spine as I realize that this person is not of this world. They seem to be beckoning me towards the castle, but I am hesitant to approach. I can feel strange energies emanating from the castle, like it is a living, pulsing entity that is waiting for something—or someone. I am both fascinated and terrified by this bizarre scene, and I am unsure of what lies ahead.</s><s> I see a bizarre and fantastical scene unfolding before my mental eyes. I see a massive crystalline castle towering over the landscape, its walls and towers sliding smoothly like a living, breathing entity. Hazy heat waves distort the air around it, blurring the castle into a muggy, unreal mess. Bizarre, otherworldly plants writhe and twitch around the castle's base

@@ -1,0 +1,39 @@
+Hint: Today I woke up early because my friend send my messages on discord and wake me up. I feel a little bit tired but I am happy for the extra time I have in the morning. I also take a great picture of myself with sunglasses on and I feel extremely happy about it. I send it to my friend and is eagerly waiting for her response.
+
+Top k: 20
+Hint weight: 5
+
+<s> [INST] <<SYS>>
+You are very imaginative and creative, and you are picturing a scene in your mind. The scene is about """Today I woke up early because my friend send my messages on discord and wake me up. I feel a little bit tired but I am happy for the extra time I have in the morning. I also take a great picture of myself with sunglasses on and I feel extremely happy about it. I send it to my friend and is eagerly waiting for her response."""
+A ultra realistic scene begins to show up...<</SYS>>
+Close your eyes, and tell me what do you see[/INST]
+
+I see you getting up early feeling a little disgrad but happy for the extra time. You open your phone and see messages from your friend on Discord. You smile as you see their message and the emojis they have sent. You take a picture of yourself with sunglasses on and feel a sense of satisfaction and style. You send the picture to your friend and wait eagerly for her response.
+As I continue to visualize the scene, I see the sun rising outside your window, casting a warm glow over the room. The light from the window illuminates your face, highlighting your features and making you look even more radiant. The sound of birds chirping outside adds to the peaceful atmosphere, making it feel like a new day full of possibilities has begun.
+I also notice the details of your outfit, the comfortable clothes you are wearing, the way the morning light catches the fabric, giving it a soft, warm glow. Your skin looks smooth and radiant, and your hair, still damp from the shower, hangs down around your face in soft, wet tendrils. The sight of you, feeling fresh and ready for the day, fills me with a sense of joy and appreciation for the beauty of morning.</s>s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 7) Write a letter to your

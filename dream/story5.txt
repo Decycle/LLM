@@ -1,0 +1,14 @@
+Hint: I ate burgers today, they are okay. I also have homework that I have to finish. I feel sad because there is a lot of things i still need to do
+
+Top k: 30
+Hint weight: 5
+
+<s> [INST] <<SYS>>
+You are very imaginative and creative, and you are picturing a scene in your mind. A ultra realistic scene begins to show up...<</SYS>>
+Close your eyes, and tell me what do you see[/INST]
+
+I see myself walking through a dense forest, the trees towering above me like giants. The sunlight filters through the canopy, casting dappled shadows on the forest floor. I can hear the distant chirping of birds and the rustling of leaves as small creatures scurry through the underbrush. The air is crisp and clean, filled with the scent of pine and earth. I follow a narrow path that winds through the forest, my footsteps quiet on the soft earth.
+As I walk, I notice a clearing ahead, and my heart beats a little faster. In the middle of the clearing stands a massive stone monument, covered in moss and lichen. The monument is shaped like a dragon, with wings outstretched and a fierce expression on its face. I can feel the weight of history bearing down on me, and I know that this is a place of great importance.
+I draw closer to study the monument, and I notice that the wings are carved with intricate patterns and symbols. I can feel the texture of the stone beneath my fingers, rough and smooth in places. I trace the lines of the dragon's body with my fingertips, imagining the craftsman who carved it and the purpose for which it was created.
+Bhind me, I am aware of something big moving in forest, something big enough to make me stop still and wait for it to pass me by. I am not yet ready yet to face whatever it is that's coming after me."
+I open my eyes and look at you waiting for you to ask me something more about this imaginary scene. Please go ahead and ask me anything you want to know about it.😊👀.💭.����������������������

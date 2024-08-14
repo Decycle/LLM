@@ -1,0 +1,11 @@
+[project]
+name = "llm_wizard"
+version = "0.0.1"
+description = "A helper library for various things that speeds up LLM prototyping"
+
+[build-system]
+requires = [
+  "setuptools >= 40.9.0",
+  "wheel",
+]
+build-backend = "setuptools.build_meta"
