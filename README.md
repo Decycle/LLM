@@ -6,8 +6,8 @@ All my LLM experiments, all in one place.
 - [Dreaming](dreaming/README.md): Fine-tuning a LLM with the goal to inject long term memory without significantly affecting the model's performance.
 - [Progressive Embedding](progressive_embedding/README.md): Visualizing how a sentence's meaning evolves as each word is added to it.
 - [Animation](animation/README.md): A continuation of the Progressive Embedding experiment. It visualize the evolution of many sentences at once.
-- [DPO Training](dpo_and_control_vectors/README.md): Experiments with [DPO](https://arxiv.org/abs/2305.18290).
-- [Control Vectors](dpo_and_control_vectors/README.md): Experiments with [control vectors](https://arxiv.org/abs/2310.01405).
+- [DPO Training](dpo_and_control_vectors/README.md): Experiments with [the DPO paper](https://arxiv.org/abs/2305.18290).
+- [Control Vectors](dpo_and_control_vectors/README.md): Experiments with [the control vector paper](https://arxiv.org/abs/2310.01405).
 - [Subspaces](dpo_and_control_vectors/README.md): Exploring the subspaces of LLM's weights.
 - [Restaurant Reviews](RestaurantReviews/readme.md): A school final project to derive 6 categorical scores from restaurant reviews using a Llama model. Including a detailed blog for mathematical explanation as well as data-gathering code.
 - [LLM Wizard](llm_wizard/README.md): A tiny tool to reduce some boilerplate code when working with LLMs.
