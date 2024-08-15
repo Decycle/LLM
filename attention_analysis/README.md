@@ -1,1 +1,1 @@
-TODO:
+A detailed visualization of model's attention when generating text. The goal is to find some relationship between the attention weights and the generated text. I personally didn't find anything interesting, but the graphics are pretty so I'm keeping it here.

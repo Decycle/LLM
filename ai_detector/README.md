@@ -1,1 +1,5 @@
-TODO:
+In this experiment, I was aiming to differentiate the difference between human and AI-written articles. My hypothesis is that AI written text is generally more predicable than humans (because of the bias in training data). Therefore, if we use a LLM to "re-predict" the text, the LLM should have a higher success rate of guessing what the AI-written text is, compared to human-written text.
+
+In other words, if the token corresponding to the correct text consistently have a high probability when predicted by the LLM, then the text is more likely to be AI-written.
+
+The input data is a combination of CoAuthor dataset (high quality) and augmented data by chatgpt (low quality). I have written an article documenting my findings at [Per-Token Detection of AI-Generated Writings Using Large Language Models](academia.edu/114328088/per_token_detection_of_ai_generated_writings_using_large_language_models)
