@@ -1,0 +1,1 @@
+A visualized animation of the technique at [progressive_embedding](../progressive_embedding/README.md).

@@ -1,0 +1,1 @@
+A very WIP library that provides some utilities for faster LLM experimenting. Right now it can only remove some boilerplate code.

@@ -1,0 +1,1 @@
+A monkey patch "library" that modifies the behavior of Transformers's Roberta class to allow "progressive embedding". See [progressive embedding](../progressive_embedding/README.md) for more information about the project.
