@@ -6,9 +6,9 @@ gpumap/
 qrpca/
 best_model/
 /data/
-/dpo/figures/*
-!/dpo/figures/98583.png
-!/dpo/figures/98583.txt
+/dpo_and_control_vectors/figures/*
+!/dpo_and_control_vectors/figures/98583.png
+!/dpo_and_control_vectors/figures/98583.txt
 llm_wizard.egg-info
 RestaurantReviews/models/dataset
 .env
